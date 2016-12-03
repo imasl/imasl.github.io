@@ -5,10 +5,11 @@
     }
 }
 
-#top-section {
+#top-section, #footer {
     background: #222;
     color: #fff;
     padding: 100px 0;
+    text-align: center;
 }
 
 #top-section h1 {
