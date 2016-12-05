@@ -16,3 +16,40 @@
     font-size: 48px;
     font-weight: 200;
 }
+
+@media (min-width: 768px) {
+    .container {
+        width: 570px !important;
+    }
+}
+
+#main-section p {
+    font-size: 18px;
+    border-bottom: 1px solid #e1e8ed;
+    border-left: 1px solid #e1e8ed;
+    border-right: 1px solid #e1e8ed;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 15px;
+}
+
+#main-section p:hover {
+    background-color: #f5f8fa
+}
+
+#main-section {
+    padding-top: 30px;
+}
+
+p video {
+    width: 360px;
+}
+
+body {
+    background-color: #F8F8F8;
+}
+
+.video-link {
+    padding-top: 10px;
+    display: inline-block;
+}
